@@ -1,0 +1,7 @@
+make a shift to sprint mech
+make nimations/build map
+code interactions/ make interactions with npc and give quests for an award
+create a welcome screen
+make camera focus on our character 
+make smooth mech 
+make map free roam tipish with the area only around the park 
